@@ -1,14 +1,9 @@
-# Copyright (c) 2013, indictrans and contributors
-# For license information, please see license.txt
-
 from __future__ import unicode_literals
 import frappe
-from frappe.model.document import Document
+import frappe.defaults
+from frappe.utils import cstr, cint, flt, comma_or, nowdate
+from frappe import _ ,msgprint
 from frappe.utils.csvutils import UnicodeWriter
-from frappe.utils import cstr
-
-class MaterialRFQ(Document):
-	pass
 
 @frappe.whitelist()
 def get_csv():
@@ -44,6 +39,3 @@ def add_data(w,args):
 		]
 		w.writerow(row)
 	return w
-
-	
-		
