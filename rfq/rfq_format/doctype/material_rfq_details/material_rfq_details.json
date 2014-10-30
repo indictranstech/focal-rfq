@@ -47,6 +47,12 @@
    "set_only_once": 0
   }, 
   {
+   "fieldname": "column_break_3", 
+   "fieldtype": "Column Break", 
+   "permlevel": 0, 
+   "precision": ""
+  }, 
+  {
    "allow_on_submit": 0, 
    "fieldname": "drawing_no", 
    "fieldtype": "Data", 
@@ -83,6 +89,13 @@
    "reqd": 0, 
    "search_index": 0, 
    "set_only_once": 0
+  }, 
+  {
+   "fieldname": "section_break_6", 
+   "fieldtype": "Section Break", 
+   "label": "Qty and Rate", 
+   "permlevel": 0, 
+   "precision": ""
   }, 
   {
    "allow_on_submit": 0, 
@@ -159,6 +172,12 @@
    "reqd": 0, 
    "search_index": 0, 
    "set_only_once": 0
+  }, 
+  {
+   "fieldname": "column_break_11", 
+   "fieldtype": "Column Break", 
+   "permlevel": 0, 
+   "precision": ""
   }, 
   {
    "allow_on_submit": 0, 
@@ -244,7 +263,7 @@
  "is_submittable": 0, 
  "issingle": 0, 
  "istable": 1, 
- "modified": "2014-10-09 19:54:00.894461", 
+ "modified": "2014-10-30 15:39:27.311249", 
  "modified_by": "Administrator", 
  "module": "RFQ Format", 
  "name": "Material RFQ Details", 

@@ -85,6 +85,12 @@
    "set_only_once": 0
   }, 
   {
+   "fieldname": "column_break_5", 
+   "fieldtype": "Column Break", 
+   "permlevel": 0, 
+   "precision": ""
+  }, 
+  {
    "allow_on_submit": 0, 
    "fieldname": "primary_process", 
    "fieldtype": "Data", 
@@ -149,7 +155,7 @@
  "is_submittable": 0, 
  "issingle": 0, 
  "istable": 1, 
- "modified": "2014-10-07 15:57:46.123535", 
+ "modified": "2014-10-30 15:41:06.492783", 
  "modified_by": "Administrator", 
  "module": "RFQ Format", 
  "name": "Primary Process RFQ Details", 

@@ -1,4 +1,5 @@
 frappe.provide("rfq.rfq_format");
+
 rfq.rfq_format.MaterialRFQ = frappe.ui.form.Controller.extend({
 	
 	refresh: function() {
