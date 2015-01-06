@@ -67,7 +67,7 @@
  "is_submittable": 1, 
  "issingle": 0, 
  "istable": 0, 
- "modified": "2014-10-08 17:38:52.334021", 
+ "modified": "2015-01-05 17:44:48.699871", 
  "modified_by": "Administrator", 
  "module": "RFQ Format", 
  "name": "Secondary Process RFQ", 
@@ -75,7 +75,7 @@
  "owner": "Administrator", 
  "permissions": [
   {
-   "amend": 0, 
+   "amend": 1, 
    "apply_user_permissions": 0, 
    "cancel": 1, 
    "create": 1, 

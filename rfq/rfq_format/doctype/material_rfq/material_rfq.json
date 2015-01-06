@@ -67,7 +67,7 @@
  "is_submittable": 1, 
  "issingle": 0, 
  "istable": 0, 
- "modified": "2014-10-21 17:05:01.658194", 
+ "modified": "2015-01-05 17:41:52.050571", 
  "modified_by": "Administrator", 
  "module": "RFQ Format", 
  "name": "Material RFQ", 
@@ -75,7 +75,7 @@
  "owner": "Administrator", 
  "permissions": [
   {
-   "amend": 0, 
+   "amend": 1, 
    "apply_user_permissions": 0, 
    "cancel": 1, 
    "create": 1, 
